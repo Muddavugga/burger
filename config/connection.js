@@ -7,9 +7,9 @@ if (process.env.JAWSDB_URL) { // if you are using clearDB - you will use the cle
 } else {
   // We are in a local environment
   connection = mysql.createConnection({
-      host: "localhost",
-      user: "root",
-      password: "Posies23",
+      host: "etdq12exrvdjisg6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+      user: "vpoxx1d9z2wifyww",
+      password: "aubn6cb4zuz1zubs",
       database: "burgers_db"
   });
 }; 
