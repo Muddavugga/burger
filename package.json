@@ -22,8 +22,12 @@
     "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.9",
+<<<<<<< HEAD
     "mysql": "^2.14.1",
     "nodemon": "^1.12.1"
+=======
+    "mysql": "^2.14.1"
+>>>>>>> 0f5ec540c4846c7bf2fbae120d8909b4ae6874b5
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
